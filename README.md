@@ -14,3 +14,6 @@ https://blog.insightdatascience.com/using-reinforcement-learning-to-design-a-bet
 
 ## Deep learning for Vortex Induced Vibrations
 https://osf.io/5eabr/download/
+
+##Quantum ML
+https://phys.org/news/2019-09-quantum-convolutional-neural-networks.html
