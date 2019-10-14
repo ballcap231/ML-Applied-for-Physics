@@ -17,3 +17,7 @@ https://osf.io/5eabr/download/
 
 ## Quantum ML
 https://phys.org/news/2019-09-quantum-convolutional-neural-networks.html
+
+## ML for scientific discoveries
+https://towardsdatascience.com/using-unsupervised-machine-learning-to-uncover-hidden-scientific-knowledge-6a3689e1c78d
+
