@@ -21,3 +21,7 @@ https://phys.org/news/2019-09-quantum-convolutional-neural-networks.html
 ## ML for scientific discoveries
 https://towardsdatascience.com/using-unsupervised-machine-learning-to-uncover-hidden-scientific-knowledge-6a3689e1c78d
 
+
+##
+https://www.technologyreview.com/s/614597/a-neural-net-solves-the-three-body-problem-100-million-times-faster/?fbclid=IwAR0cB33qgivS8Gll1p6WXY-r4httsOPmvlvOd-2y41LRNBub4mZswvIA_do
+
